@@ -1,0 +1,37 @@
+/* .dd,.ya{
+  position: relative;
+}
+
+.dd1,.dd2,.dd3{
+  position: absolute;
+  top: 2%;
+  left: 1%;
+  font-size: 13px;
+  width: 68px;
+  height: 20px;
+}
+.dd2{
+  position: absolute;
+  top: 2%;
+  left: 36%;
+}
+
+.dd3{
+  position: absolute;
+  top: 2%;
+  left: 68%;
+}
+
+.ya1{
+  position: absolute;
+  top:28%;
+  left: 0%;
+  z-index: 1;
+}
+
+.ya2{
+  position: absolute;
+  top:0%;
+  left: 47%;
+} */
+
